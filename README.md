@@ -100,7 +100,9 @@ If you are presenting this to an audience, follow this 3-step sequence to tell a
 
 Step	Action	The Story
 Step 1	Scheduling Prompt	"First, Kuro OS handles the patient's entry into the system without human intervention."
+
 Step 2	Clinical Note Prompt	"Once the patient is with the doctor, the system acts as a scribe, capturing vital signs and observations."
+
 Step 3	Check the DB	"Finally, we see that all this data is securely stored in Firestore, ready for the Scribe Agent to draft a prescriptio
 
 
